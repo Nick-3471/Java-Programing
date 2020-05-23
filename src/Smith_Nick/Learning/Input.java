@@ -1,8 +1,5 @@
 package Smith_Nick.Learning;
 
-import java.sql.Time;
-import java.time.Year;
-import java.util.Date;
 import java.util.Scanner;
 
 public class Input {
@@ -80,5 +77,6 @@ public class Input {
         }
         System.out.println("The sum of all the numbers you have entered is: " + sum);
         scanner2.close();*/
+        scanner.close();
     } 
 }

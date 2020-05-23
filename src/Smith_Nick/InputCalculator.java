@@ -60,5 +60,6 @@ public class InputCalculator {
                 break;
             }
         }
+        scanner.close();
     }
 }
