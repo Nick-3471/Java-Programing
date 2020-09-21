@@ -20,12 +20,58 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:RemoveBin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f32a6d5-131d-4756-8ac8-cedffa4ae573" name="Default Changelist" comment="Update gitignore" />
+    <list default="true" id="5f32a6d5-131d-4756-8ac8-cedffa4ae573" name="Default Changelist" comment="Update gitignore">
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Smith_Nick/Ch8/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Acura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Acura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/AllFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/AllFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/ComplexNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/ComplexNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Cuboid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/DiagonalStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/DigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/FirstAndLastDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/FirstAndLastDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/FlourPackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/FlourPackProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/InputCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/InputCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/LargestPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/LargestPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/LastDigitChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/LastDigitChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/NumberInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/NumberInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/NumberOfDaysInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/NumberOfDaysInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/PaintJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/PerfectFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/PerfectFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/SumOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/SumOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Smith_Nick/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Smith_Nick/Chapter7/Wall.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,15 +113,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Smith_Nick.LastDigitChecker" />
+      <option name="MAIN_CLASS_NAME" value="Smith_Nick.Chapter7.LastDigitChecker" />
       <module name="Java Programing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Smith_Nick.*" />
+          <option name="PATTERN" value="Smith_Nick.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +130,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Smith_Nick.Main" />
+      <option name="MAIN_CLASS_NAME" value="Smith_Nick.Chapter7.Main" />
       <module name="Java Programing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Smith_Nick.*" />
+          <option name="PATTERN" value="Smith_Nick.Chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Smith_Nick.Ch8.Main" />
+      <module name="Java Programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Smith_Nick.Ch8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Smith_Nick.Chapter7.NumberToWords" />
+      <module name="Java Programing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Smith_Nick.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,10 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.NumberToWords" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LastDigitChecker" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LastDigitChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +193,10 @@
       <workItem from="1591570240717" duration="1370000" />
       <workItem from="1591711560377" duration="2271000" />
       <workItem from="1591799443529" duration="5446000" />
+      <workItem from="1598116423335" duration="3874000" />
+      <workItem from="1599229697426" duration="115000" />
+      <workItem from="1599229990649" duration="292000" />
+      <workItem from="1600640341750" duration="6464000" />
     </task>
     <task id="LOCAL-00001" summary="Updating project to Intillij from vsCode">
       <created>1591494483057</created>
@@ -180,7 +257,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="RemoveBin" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -200,102 +277,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1591494309180">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="874" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1600652809255">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591494309180" />
-    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1591891441688">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="874" y="254" key="#com.intellij.ide.util.MemberChooser/-2160.63.1234.2154/0.0.2194.1194/3840.0.2194.1194@0.0.2194.1194" timestamp="1600652809255" />
+    <state x="874" y="254" key="#com.intellij.ide.util.MemberChooser/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598119704137" />
+    <state x="778" y="333" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599229803486">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547887456" />
-    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891441688" />
-    <state x="743" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591494255463">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="778" y="333" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/3840.0.2194.1194/-2160.63.1234.2154/0.0.2194.1194@0.0.2194.1194" timestamp="1599229803486" />
+    <state width="2151" height="283" key="GridCell.Tab.0.bottom" timestamp="1600653284420">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="743" y="414" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591494255463" />
-    <state x="717" y="85" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591891507168">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2151" height="283" key="GridCell.Tab.0.bottom/-2160.63.1234.2154/0.0.2194.1194/3840.0.2194.1194@0.0.2194.1194" timestamp="1600653284420" />
+    <state width="2151" height="283" key="GridCell.Tab.0.bottom/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598121001390" />
+    <state width="2151" height="283" key="GridCell.Tab.0.center" timestamp="1600653284419">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="717" y="85" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891507168" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1591891905149">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2151" height="283" key="GridCell.Tab.0.center/-2160.63.1234.2154/0.0.2194.1194/3840.0.2194.1194@0.0.2194.1194" timestamp="1600653284419" />
+    <state width="2151" height="283" key="GridCell.Tab.0.center/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598121001390" />
+    <state width="2151" height="283" key="GridCell.Tab.0.left" timestamp="1600653284419">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591540250481" />
-    <state x="92" y="92" key="DiffContextDialog/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891905149" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591570248167">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2151" height="283" key="GridCell.Tab.0.left/-2160.63.1234.2154/0.0.2194.1194/3840.0.2194.1194@0.0.2194.1194" timestamp="1600653284419" />
+    <state width="2151" height="283" key="GridCell.Tab.0.left/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598121001390" />
+    <state width="2151" height="283" key="GridCell.Tab.0.right" timestamp="1600653284419">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591493772087" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591570248167" />
-    <state width="1877" height="338" key="GridCell.Tab.-1.bottom" timestamp="1591547837541">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="2151" height="283" key="GridCell.Tab.0.right/-2160.63.1234.2154/0.0.2194.1194/3840.0.2194.1194@0.0.2194.1194" timestamp="1600653284419" />
+    <state width="2151" height="283" key="GridCell.Tab.0.right/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598121001390" />
+    <state x="657" y="217" key="SettingsEditor" timestamp="1598120364233">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.-1.bottom/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547837541" />
-    <state width="1877" height="338" key="GridCell.Tab.-1.center" timestamp="1591547837541">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="657" y="217" key="SettingsEditor/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598120364233" />
+    <state x="754" y="279" key="run.anything.popup" timestamp="1598120216119">
+      <screen x="0" y="0" width="2194" height="1194" />
     </state>
-    <state width="1877" height="338" key="GridCell.Tab.-1.center/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547837541" />
-    <state width="1877" height="338" key="GridCell.Tab.-1.left" timestamp="1591547837541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.-1.left/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547837541" />
-    <state width="1877" height="338" key="GridCell.Tab.-1.right" timestamp="1591547837541">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.-1.right/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547837541" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1591891266409">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591548158602" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891266409" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1591891266408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591548158601" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891266408" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1591891266408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591548158601" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891266408" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1591891266408">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591548158602" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591891266408" />
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1591547835730">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547835730" />
-    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1591547835730">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547835730" />
-    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1591547835729">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547835729" />
-    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1591547835730">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591547835730" />
-    <state x="749" y="222" key="RollbackChangesDialog" timestamp="1591494389043">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="749" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591494389043" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1591892220403">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591494110689" />
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591892220403" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1591892551389">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.535.1920.1040@0.0.1920.1040" timestamp="1591546692997" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591892551389" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591892390743">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1080.1880@0.0.1920.1040" timestamp="1591892390743" />
+    <state x="754" y="279" key="run.anything.popup/3840.0.1080.1885/0.0.2194.1194@0.0.2194.1194" timestamp="1598120216119" />
   </component>
 </project>
